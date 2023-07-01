@@ -1,0 +1,11 @@
+Informatika
+IT unggul 2001 318 262
+RPL unggul 2013 488 238
+IF cukup 2019 467 305
+IT baik 2009 361 414
+SE cukup 2019 477 346
+SI cukup 2013 205 382
+DS baik 2019 224 396
+IF cukup 2016 304 268
+SD cukup 2017 296 145
+IT cukup 2007 406 267

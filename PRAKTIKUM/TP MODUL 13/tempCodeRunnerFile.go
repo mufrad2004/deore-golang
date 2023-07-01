@@ -1,0 +1,3 @@
++ {
+		fmt.Println(t[i])
+	}

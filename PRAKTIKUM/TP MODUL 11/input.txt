@@ -1,0 +1,17 @@
+1. 
+A B C D E E
+E F A E
+
+
+2. 
+mawar anggrek melati bugenvil kenikir matahari sepatu tulip lili melati 
+34 0 9 2 34
+
+3. 
+34 0 9 2 134 8 92 34
+1 2 34 4 0 6 134 1 
+
+4. 
+mawar anggrek melati bugenvil kenikir matahari sepatu tulip lili melati
+
+mawar anggrek melati bugenvil kenikir matahari sepatu tulip lili matahari
